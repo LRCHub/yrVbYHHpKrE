@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サイコロジック",
+  "base_artist": "phatmans after school",
+  "createdAt": "2026-02-15T17:14:54.011270Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイコロジック",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_01_サイコロジック_phatmans_after_school.txt"
+    }
+  ]
+}
